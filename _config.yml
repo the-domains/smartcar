@@ -1,0 +1,28 @@
+name: Smart Car
+favicon: null
+layout_spectrum: 0.6199982657562941
+typography_spectrum: 0.7296214697416872
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.11563386837951839
+  lightness: 0.02954070921987295
+  saturation: 0.3812216757796705
+  rhythmicContrast: 0.23031648062169552
+purpose: []
